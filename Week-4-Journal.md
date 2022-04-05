@@ -1,5 +1,13 @@
-## Prompts followed by answers
 
+## This week's goals:
+- Improve TDD writing
+- Learn to refactor
+- Improve README's
+- Understand OOP in JS.
+
+
+
+### Prompts followed by answers
 #### When, like all developers, you encounter a problem you can't immediately solve, what's your internal reaction? Is it along the lines of "Oh, I'm not smart enough for this.", more like "Okay, I just need to learn more.", or something else?
 
 The honest truth is always have a dialogue going on in my head, even if I'm just sipping coffee at 7am on a Tuesday. Amongst encounter of a difficult problem, the most common dialogue that triggers begins with: "why??" Why is "this" happening? What is causing it and what will result from it? What should I do and is it in my scope of responsibility? And when I take responsibility, what cost should I be ready to pay? (Cost in the sense of mental fortitude and effort)
